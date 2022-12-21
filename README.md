@@ -9,7 +9,6 @@ pip install -r requirements.txt
 python main.py
 ```
 
-
 To download your dataset
 
 ```
