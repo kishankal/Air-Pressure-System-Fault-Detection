@@ -61,6 +61,7 @@ git push origin main -f
 ```
 
 
+
 To pull  changes from github repo
 ```
 git pull origin main
